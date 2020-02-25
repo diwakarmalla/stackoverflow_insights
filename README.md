@@ -25,16 +25,16 @@ Below real world questions were answered using the CRISP-DM Process (Cross Indus
 ## Results:
 
 Below are the findings from dataset: 
-Top most Loved/Dreaded/Wanted languages?
+### Top most Loved/Dreaded/Wanted languages:
   * Rust and Python are most loved languages
   * VBA is the most dreaded language
   * Python is the most wanted language
  
-Top paid programming langauages? 
+### Top paid programming langauages:
   * Scala, Clojure are the top paid languages in USA
   * F# and Clojure are the top paid languages outside USA
 
-Top Blockers for Developers Productivity?
+### Top Blockers for Developers Productivity:
   * Distracting work environment and meetings are the main blockers for developers productivity
 
 
